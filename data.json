@@ -1,0 +1,44 @@
+[
+    {
+       "id":1,
+       "name":"Jaqueta",
+       "description":"Jaqueta de alta qualidade fabricado para atender aos clientes mais exigentes",
+       "price":499.99
+    },
+    {
+       "id":2,
+       "name":"Calça",
+       "description":"Calça de alta qualidade fabricado para atender aos clientes mais exigentes",
+       "price":299.99
+    },
+    {
+       "id":3,
+       "name":"Camisa",
+       "description":"Camisa de alta qualidade fabricado para atender aos clientes mais exigentes",
+       "price":199.99
+    },
+    {
+       "id":4,
+       "name":"Camiseta",
+       "description":"Camiseta de alta qualidade fabricado para atender aos clientes mais exigentes",
+       "price":99.99
+    },
+    {
+       "id":5,
+       "name":"Bermuda",
+       "description":"Bermuda de alta qualidade fabricado para atender aos clientes mais exigentes",
+       "price":199.99
+    },
+    {
+       "id":6,
+       "name":"Short",
+       "description":"Short de alta qualidade fabricado para atender aos clientes mais exigentes",
+       "price":99.99
+    },
+    {
+       "id":7,
+       "name":"Blazer",
+       "description":"Blazer de alta qualidade fabricado para atender aos clientes mais exigentes",
+       "price": 999.99
+    }
+ ]
